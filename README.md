@@ -4,22 +4,19 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Table of contents
 
-- [Frontend Mentor - NFT preview card component solution](#frontend-mentor---nft-preview-card-component-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-      - [Mobile View](#mobile-view)
-      - [Desktop View](#desktop-view)
-      - [Active State](#active-state)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,52 +28,84 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-#### Mobile View
-![](./sources/screenshots/Mobile%20view.png)
 
-#### Desktop View
-![](./sources/screenshots/Desktop%20view.png)
+![](./screenshot.jpg)
 
-#### Active State
-![](./sources/screenshots/Active%20state.jpg)
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [NFT preview card page using HTML and CSS (Sass)](https://www.frontendmentor.io/solutions/nft-preview-card-page-using-html-and-css-sass-3-mRs3Rnq0)
-- Live Site URL: [Frontend Mentor | NFT preview card component](https://vangmanawkairung.github.io/Frontend-Mentor_nft-prview-card-component/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties (Variables)
+- CSS custom properties
+- Flexbox
+- CSS Grid
 - Mobile-first workflow
-- Sass for Styling (SCSS)
-- Responsive Design
-- CSS Flexbox
-- Hover effects and active states
-- Google Fonts
-- Accessibility (ARIA attributes)
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
+
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Through this challenge, I’ve improved my skills in semantic HTML5, Sass for scalable styling, and creating responsive, mobile-first designs. I learned how to use Flexbox for layout, implement hover effects, and manage dynamic UI elements like overlays. This project helped me focus on writing clean, accessible, and responsive code for modern web development.
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+
+To see how you can add code snippets, see below:
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
+
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+
+**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Moving forward, I can further develop my skills by focusing on more advanced CSS techniques like grid layouts and animations to create more complex, responsive designs. I can also dive deeper into accessibility features and improve my understanding of JavaScript to add more interactivity. Additionally, refining my use of version control systems like Git would help streamline collaboration and project management in future challenges.
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+
+**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [How TO - Overlay](https://www.w3schools.com/howto/howto_css_overlay.asp) - Guide me the way to create the overlay
-- [Two ways to create an image with a colour overlay in CSS](https://dev.to/ellen_dev/two-ways-to-achieve-an-image-colour-overlay-with-css-eio) - Guide me to create the overlay
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Frontend Mentor - [@VangmanawKairung](https://www.frontendmentor.io/profile/VangmanawKairung)
-- Website - [Kairung Vangmanaw](https://github.com/VangmanawKairung)
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-I want to thank Frontend Mentor for creating this insightful challenge that helped me improve my skills. I also appreciate all the useful resources available online, and special thanks to ChatGPT for guidance throughout the process. Previews on Mac were incredibly helpful for quick checks, and I’m grateful to everyone and every tool I’ve used, even those I may not have mentioned, for making this project a success.
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
+**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
